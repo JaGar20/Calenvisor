@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|c:\\users\\jason\\downloads\\b321_team_05_project\\b321_team05_project\\b321_project_ui\\b321_project\\frmb321.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|solutionrelative:b321_project\\frmb321.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\b321_project\\clshourblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|solutionrelative:b321_project\\clshourblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\b321_project\\frmb321.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|solutionrelative:b321_project\\frmb321.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\b321_project\\clsavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|solutionrelative:b321_project\\clsavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\b321_project\\clslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|solutionrelative:b321_project\\clslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\b321_project\\clsdbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|solutionrelative:b321_project\\clsdbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\b321_project\\clsadvisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|solutionrelative:b321_project\\clsadvisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\b321_project\\clsmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|solutionrelative:b321_project\\clsmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\b321_project\\frmb321.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|solutionrelative:b321_project\\frmb321.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\b321_project\\clsstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A648808D-A4D7-4A3E-AFDE-1B65E16D3C08}|B321_Project\\B321_Project.csproj|solutionrelative:b321_project\\clsstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmB321.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\frmB321.cs",
+              "RelativeDocumentMoniker": "B321_Project\\frmB321.cs",
+              "ToolTip": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\frmB321.cs [Design]",
+              "RelativeToolTip": "B321_Project\\frmB321.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:25:29.16Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmB321.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\frmB321.cs",
+              "RelativeDocumentMoniker": "B321_Project\\frmB321.cs",
+              "ToolTip": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\frmB321.cs",
+              "RelativeToolTip": "B321_Project\\frmB321.cs",
+              "ViewState": "AgIAAEEFAAAAAAAAAADwv9AFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:49:18.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsAvailability.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsAvailability.cs",
+              "RelativeDocumentMoniker": "B321_Project\\clsAvailability.cs",
+              "ToolTip": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsAvailability.cs",
+              "RelativeToolTip": "B321_Project\\clsAvailability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:29:12.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsLocation.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsLocation.cs",
+              "RelativeDocumentMoniker": "B321_Project\\clsLocation.cs",
+              "ToolTip": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsLocation.cs",
+              "RelativeToolTip": "B321_Project\\clsLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:57:06.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsStudent.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsStudent.cs",
+              "RelativeDocumentMoniker": "B321_Project\\clsStudent.cs",
+              "ToolTip": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsStudent.cs",
+              "RelativeToolTip": "B321_Project\\clsStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:57:10.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsAdvisor.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsAdvisor.cs",
+              "RelativeDocumentMoniker": "B321_Project\\clsAdvisor.cs",
+              "ToolTip": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsAdvisor.cs",
+              "RelativeToolTip": "B321_Project\\clsAdvisor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:57:13.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsDBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsDBUtil.cs",
+              "RelativeDocumentMoniker": "B321_Project\\clsDBUtil.cs",
+              "ToolTip": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsDBUtil.cs",
+              "RelativeToolTip": "B321_Project\\clsDBUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:37:16.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsHourBlock.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsHourBlock.cs",
+              "RelativeDocumentMoniker": "B321_Project\\clsHourBlock.cs",
+              "ToolTip": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsHourBlock.cs",
+              "RelativeToolTip": "B321_Project\\clsHourBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:57:01.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmB321.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\frmB321.Designer.cs",
+              "RelativeDocumentMoniker": "B321_Project\\frmB321.Designer.cs",
+              "ToolTip": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\frmB321.Designer.cs",
+              "RelativeToolTip": "B321_Project\\frmB321.Designer.cs",
+              "ViewState": "AgIAAEAJAAAAAAAAAAAQwHoJAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:35:40.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsMeeting.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsMeeting.cs",
+              "RelativeDocumentMoniker": "B321_Project\\clsMeeting.cs",
+              "ToolTip": "C:\\Users\\jason\\Downloads\\B321_Team_05_Project\\B321_Team05_Project\\B321_Project_UI\\B321_Project\\clsMeeting.cs",
+              "RelativeToolTip": "B321_Project\\clsMeeting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:40:52.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
